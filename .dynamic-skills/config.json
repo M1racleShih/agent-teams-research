@@ -1,0 +1,16 @@
+{
+  "agents": [
+    "codex"
+  ],
+  "mode": "copy",
+  "schema_version": 1,
+  "skills": [
+    "diagram-design",
+    "dynamic-skills",
+    "mp-domain-modeling",
+    "plain-docs",
+    "verify-before-complete",
+    "web-research"
+  ],
+  "track": true
+}

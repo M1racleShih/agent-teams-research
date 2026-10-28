@@ -1,0 +1,50 @@
+{
+  "repository": "https://github.com/unclebob/swarm-forge",
+  "snapshots": [
+    {
+      "branch": "main",
+      "commit": "f4f5fbcae0de6f7dcc26e82400334227647cfdb2",
+      "local_path": "../swarm-forge"
+    },
+    {
+      "branch": "two-pack",
+      "commit": "b75d16062b619e6eab06e03995e344676bc755cd",
+      "local_path": "../worktrees/two-pack"
+    },
+    {
+      "branch": "four-pack",
+      "commit": "04662cf96ca83fb45783b4d73cd1daf0acefc0b8",
+      "local_path": "../worktrees/four-pack"
+    },
+    {
+      "branch": "six-pack",
+      "commit": "066a62ffa6cbc8c859262536dc579fecf8535ebb",
+      "local_path": "../worktrees/six-pack"
+    },
+    {
+      "branch": "project-manager",
+      "commit": "2cc1795fbd1f5cedefd0c371aa1835464d1b4a15",
+      "local_path": "../worktrees/project-manager"
+    },
+    {
+      "branch": "lieutenant",
+      "commit": "23653942488281a3c6d9a60b7e9378be0a1ca1c2",
+      "local_path": "../worktrees/lieutenant"
+    },
+    {
+      "branch": "squad",
+      "commit": "319801e105357ad3299ee0492afe01c82247ab9c",
+      "local_path": "../worktrees/squad"
+    },
+    {
+      "branch": "sprint-module-squad",
+      "commit": "63693c14b65a5d10f12529cb7a3cc85088257397",
+      "local_path": "../worktrees/sprint-module-squad"
+    },
+    {
+      "branch": "adversaries",
+      "commit": "68d52bbc99af898405b2a5c08854f8ce37eeced5",
+      "local_path": "../worktrees/adversaries"
+    }
+  ]
+}

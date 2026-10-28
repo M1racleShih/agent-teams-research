@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "skills": {
+    "diagram-design": {
+      "digest": "c48bc9cf600db54148d9f55710bbecdab56598aa43bbbe0a7ed59c4c3735e6c0",
+      "source": {
+        "kind": "local",
+        "path": "/home/shq/.agents/sources/diagram-design/skills/diagram-design"
+      }
+    },
+    "dynamic-skills": {
+      "digest": "0fa76a60621773144f092787884a89f45a9c3fd592b73d638cba2886d129423f",
+      "source": {
+        "kind": "builtin",
+        "name": "dynamic-skills"
+      }
+    },
+    "mp-domain-modeling": {
+      "digest": "dc71783b0c0ab062f4e248ef84820e02b115f033b75883de6194e60087948c7a",
+      "source": {
+        "commit": "3cca18b368ae95cdbdebbff572ccafa662551015",
+        "kind": "git",
+        "ref": "3cca18b368ae95cdbdebbff572ccafa662551015",
+        "subdir": "skills/engineering/domain-modeling",
+        "url": "https://github.com/mattpocock/skills.git"
+      }
+    },
+    "plain-docs": {
+      "digest": "00a637d1eb0bcc14edc3c9bcfb4d97400eefea5141eaa1320463a7bbe9dbe0e2",
+      "source": {
+        "kind": "local",
+        "path": "/home/shq/worktrees/plain-docs-blacklist-1.0.1/skills/plain-docs"
+      }
+    },
+    "verify-before-complete": {
+      "digest": "de7d6e977b17adbff0029fed4798f16ec9a2d7e03aeb58261137f3cf36b2f08c",
+      "source": {
+        "kind": "local",
+        "path": "/home/shq/.local/share/dynamic-skills/maintained-sources/verify-before-complete"
+      }
+    },
+    "web-research": {
+      "digest": "c663d9da1163b66fcd598457834814e9d5ea84db76ccdf67657f0e02981e3fa9",
+      "source": {
+        "kind": "local",
+        "path": "/home/shq/center-control-unit/skills/web-research"
+      }
+    }
+  }
+}

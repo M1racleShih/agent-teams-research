@@ -1,0 +1,15 @@
+# dskills outputs are rebuilt from the reviewed versions in the local pool.
+/.agents/skills/
+/.dynamic-skills/*
+!/.dynamic-skills/.gitignore
+!/.dynamic-skills/config.json
+!/.dynamic-skills/lock.json
+
+# Local credentials, logs and editor/OS state.
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+*~
+*.swp
